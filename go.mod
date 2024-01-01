@@ -3,10 +3,7 @@ module github.com/rat1borik/squirrel
 go 1.20
 
 require (
-	github.com/go-sql-driver/mysql v1.7.1
 	github.com/lann/builder v0.0.0-20180802200727-47ae307949d0
-	github.com/lib/pq v1.10.9
-	github.com/mattn/go-sqlite3 v1.14.19
 	github.com/stretchr/testify v1.8.4
 )
 
